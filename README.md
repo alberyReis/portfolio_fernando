@@ -2,9 +2,11 @@
 
 ## About the Project
 
-Personal portfolio website created to showcase Fernando's professional profile, electrical engineering services, and projects in electrotechnics.
+Personal portfolio website developed with React to showcase Fernando's professional profile, electrotechnical projects, and services.
 
-The website provides an online presence to present his work, highlight his expertise, and make it easier for potential clients to get in touch.
+The project features a responsive interface, social media icons, and email integration using EmailJS.
+
+**Technologies:** React, JavaScript, CSS, React Icons, and EmailJS.
 
 **Live Demo:** https://portfoliofernandoeletrotecnico.vercel.app/
 
@@ -21,7 +23,7 @@ git clone YOUR_REPOSITORY_URL
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd YOUR_PROJECT_FOLDER
+cd portifolio_fernando
 ```
 
 ### 3. Install Dependencies
@@ -33,7 +35,15 @@ npm install
 ### 4. Start the Development Server
 
 ```bash
-npm run dev
+npm start
 ```
 
-Open the URL displayed in the terminal to view the project in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+### 5. Build for Production
+
+```bash
+npm run build
+```
+
+The production-ready files will be generated in the `build` directory.
