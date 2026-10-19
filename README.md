@@ -1,36 +1,39 @@
-# ⚡ Portfólio Fernando
+# Fernando's Portfolio
 
-> Projeto criado para exibir as habilidades do **Eletrotécnico Fernando** e proporcionar meios de contato.
+## About the Project
 
----
+Personal portfolio website created to showcase Fernando's professional profile, electrical engineering services, and projects in electrotechnics.
 
-## ✨ Funcionalidades
+The website provides an online presence to present his work, highlight his expertise, and make it easier for potential clients to get in touch.
 
-- 🌐 Visualização das habilidades e experiências do Fernando  
-- 📱 Responsivo: funciona perfeitamente em desktop, tablet e smartphone  
-- ✉️ Formulário de contato para facilitar comunicação direta  
+**Live Demo:** https://portfoliofernandoeletrotecnico.vercel.app/
 
----
+## How to Run the Project
 
-## 🛠 Tecnologias
+**Prerequisites:** Node.js and npm installed.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+### 1. Clone the Repository
 
----
+```bash
+git clone YOUR_REPOSITORY_URL
+```
 
-## 🚀 Deploy
+### 2. Navigate to the Project Directory
 
-Acesse o projeto online: [🌐 Portfólio Fernando](https://potifoliofernando.vercel.app/)
+```bash
+cd YOUR_PROJECT_FOLDER
+```
 
----
+### 3. Install Dependencies
 
-## 🖼 Demonstração
+```bash
+npm install
+```
 
-![Portfólio Fernando](https://github.com/alberyReis/portifolio_pessoal/blob/master/assets/img/portifolio_fernando.png)
+### 4. Start the Development Server
 
----
+```bash
+npm run dev
+```
 
-## 📄 Licença
-
-Este projeto está licenciado sob **MIT**
+Open the URL displayed in the terminal to view the project in your browser.
